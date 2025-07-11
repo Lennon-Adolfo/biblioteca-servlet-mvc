@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="biblioteca-servlet-mvc:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/biblioteca_servlet_mvc_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="biblioteca-servlet-mvc" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="biblioteca-servlet-mvc/web/Web" />
+      <element id="directory" name="src">
+        <element id="directory" name="main">
+          <element id="directory" name="webapp" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
